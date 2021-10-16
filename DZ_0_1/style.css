@@ -1,0 +1,21 @@
+.products {
+    display: flex;
+    justify-content: right;
+    border: 3px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.product-item {
+    width: 30%;
+    border: 2px solid gray;
+    background-color: #CDFFEF;
+    height: 350px;
+    margin-left: 10px;
+}
+
+.blink {
+    border: 2px solid gray;
+}
